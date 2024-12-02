@@ -1,0 +1,7 @@
+os = input ("Please enter only 2 numbers and I will collect:\n")
+ytyttyty = int (os[0])
+ytattyty = int (os[1])
+print(ytyttyty-ytattyty)
+print(ytyttyty/ytattyty)
+print(ytyttyty*ytattyty)
+print(ytyttyty+ytattyty)
